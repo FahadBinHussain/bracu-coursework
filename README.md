@@ -171,3 +171,9 @@ CSE 391 Assignment - Car Workshop Appointment System
 ---
 
 **Need help?** Check the browser console (F12) for error messages!
+
+## Contributors
+
+<a href="https://github.com/FahadBinHussain/cse391/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=FahadBinHussain/cse391" alt="Contributors" />
+</a>
