@@ -25,5 +25,6 @@ Also here (not a former standalone repo):
 |---|---|
 | env103/ | ENV 103 - Elements of Environmental Science (Fall 2026) |
 | eng115/ | ENG 115 project (magazine) |
+| mat110/ | MAT 110 - Differential Calculus and Coordinate Geometry (Spring 2023) |
 
 Not merged: cse423 (private, kept separate).
