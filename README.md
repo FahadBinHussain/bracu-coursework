@@ -24,5 +24,6 @@ Also here (not a former standalone repo):
 | Folder | What it is |
 |---|---|
 | env103/ | ENV 103 - Elements of Environmental Science (Fall 2026) |
+| eng115/ | ENG 115 project (magazine) |
 
 Not merged: cse423 (private, kept separate).
