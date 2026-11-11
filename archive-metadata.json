@@ -1,0 +1,411 @@
+{
+  "backed_up_at": "2026-11-11T05:17:42.660843+00:00",
+  "owner": "FahadBinHussain",
+  "repos": {
+    "cse110": {
+      "meta": {
+        "name": "cse110",
+        "full_name": "FahadBinHussain/cse110",
+        "description": "BRACU CSE110 programming lab work and Python practice notebooks.",
+        "homepage": "https://github.com/FahadBinHussain/cse110",
+        "topics": [
+          "bracu",
+          "coursework",
+          "cse110",
+          "lab-work",
+          "programming-fundamentals",
+          "python"
+        ],
+        "language": "Python",
+        "visibility": "public",
+        "created_at": "2023-02-06T00:54:39Z",
+        "updated_at": "2026-11-11T05:09:22Z",
+        "pushed_at": "2026-05-22T06:04:13Z",
+        "default_branch": "main",
+        "size": 781,
+        "stargazers_count": 1,
+        "watchers_count": 1,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "archived": true,
+        "html_url": "https://github.com/FahadBinHussain/cse110"
+      },
+      "branches": [
+        {
+          "name": "main",
+          "sha": "61873ea50141acd41961405ec711f3a15384f63d"
+        }
+      ],
+      "issues": [],
+      "pull_requests": [],
+      "releases": []
+    },
+    "cse111": {
+      "meta": {
+        "name": "cse111",
+        "full_name": "FahadBinHussain/cse111",
+        "description": "BRACU CSE111 programming lab work and Jupyter notebook practice.",
+        "homepage": "https://github.com/FahadBinHussain/cse111",
+        "topics": [
+          "bracu",
+          "bracu-cse-lab",
+          "bracu-cse111",
+          "bracu-cse111lab"
+        ],
+        "language": "Jupyter Notebook",
+        "visibility": "public",
+        "created_at": "2023-06-13T16:46:40Z",
+        "updated_at": "2026-11-11T05:09:24Z",
+        "pushed_at": "2026-05-23T06:28:23Z",
+        "default_branch": "main",
+        "size": 111,
+        "stargazers_count": 1,
+        "watchers_count": 1,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "archived": true,
+        "html_url": "https://github.com/FahadBinHussain/cse111"
+      },
+      "branches": [
+        {
+          "name": "main",
+          "sha": "9548b5bc0da2ec040b4ffa0d4126016c3e4b8bc8"
+        }
+      ],
+      "issues": [],
+      "pull_requests": [],
+      "releases": []
+    },
+    "cse220": {
+      "meta": {
+        "name": "cse220",
+        "full_name": "FahadBinHussain/cse220",
+        "description": "BRACU CSE220 data structures lab work and Jupyter notebook solutions.",
+        "homepage": "https://github.com/FahadBinHussain/cse220",
+        "topics": [
+          "bracu",
+          "coursework",
+          "cse220",
+          "data-structures",
+          "jupyter-notebook",
+          "python"
+        ],
+        "language": "Jupyter Notebook",
+        "visibility": "public",
+        "created_at": "2024-01-29T02:22:53Z",
+        "updated_at": "2026-11-11T05:09:25Z",
+        "pushed_at": "2026-05-22T06:05:23Z",
+        "default_branch": "main",
+        "size": 104,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "archived": true,
+        "html_url": "https://github.com/FahadBinHussain/cse220"
+      },
+      "branches": [
+        {
+          "name": "main",
+          "sha": "cf4c66e0b66491ee962b1cc19c64598c3c36fd5f"
+        }
+      ],
+      "issues": [],
+      "pull_requests": [],
+      "releases": []
+    },
+    "cse221": {
+      "meta": {
+        "name": "cse221",
+        "full_name": "FahadBinHussain/cse221",
+        "description": "BRACU CSE221 algorithms lab work and Python/Jupyter solutions.",
+        "homepage": "https://github.com/FahadBinHussain/cse221",
+        "topics": [
+          "algorithm",
+          "algorithm-lab",
+          "bracucse",
+          "cse221",
+          "cse221-bracu",
+          "cse221-fall24",
+          "cse221lab",
+          "python"
+        ],
+        "language": "Jupyter Notebook",
+        "visibility": "public",
+        "created_at": "2024-06-03T02:38:04Z",
+        "updated_at": "2026-11-11T05:09:27Z",
+        "pushed_at": "2026-05-22T06:05:08Z",
+        "default_branch": "main",
+        "size": 19,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "archived": true,
+        "html_url": "https://github.com/FahadBinHussain/cse221"
+      },
+      "branches": [
+        {
+          "name": "main",
+          "sha": "18aaf29d3bca79fb93cbecf38642791e5ffa2b90"
+        }
+      ],
+      "issues": [],
+      "pull_requests": [],
+      "releases": []
+    },
+    "cse330": {
+      "meta": {
+        "name": "cse330",
+        "full_name": "FahadBinHussain/cse330",
+        "description": "CSE330 numerical methods lab work featuring polynomial interpolation techniques (Vandermonde, Lagrange, Newton, and Hermite) plus differentiation and Richardson extrapolation in Python/Jupyter notebooks.",
+        "homepage": "",
+        "topics": [
+          "cse330",
+          "differentiation",
+          "hermite-interpolation",
+          "jupyter-notebook",
+          "lagrange-interpolation",
+          "newton-interpolation",
+          "numerical-methods",
+          "polynomial-interpolation",
+          "python",
+          "richardson-extrapolation"
+        ],
+        "language": "Jupyter Notebook",
+        "visibility": "public",
+        "created_at": "2026-02-22T04:45:40Z",
+        "updated_at": "2026-11-11T05:09:29Z",
+        "pushed_at": "2026-05-22T06:04:18Z",
+        "default_branch": "main",
+        "size": 475,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "archived": true,
+        "html_url": "https://github.com/FahadBinHussain/cse330"
+      },
+      "branches": [
+        {
+          "name": "main",
+          "sha": "46fa483926b585687b55f9cf7f0cac158f920eab"
+        }
+      ],
+      "issues": [],
+      "pull_requests": [],
+      "releases": []
+    },
+    "cse370": {
+      "meta": {
+        "name": "cse370",
+        "full_name": "FahadBinHussain/cse370",
+        "description": "Full-stack fundraising platform built with Next.js, Prisma, PostgreSQL, Stripe, and Supabase.",
+        "homepage": "https://uddog.vercel.app",
+        "topics": [
+          "donations",
+          "fundraising-platform",
+          "next-auth",
+          "nextjs",
+          "postgresql",
+          "prisma",
+          "stripe-payments",
+          "supabase",
+          "tailwindcss",
+          "typescript"
+        ],
+        "language": "TypeScript",
+        "visibility": "public",
+        "created_at": "2025-08-24T02:47:38Z",
+        "updated_at": "2026-11-11T05:09:31Z",
+        "pushed_at": "2026-05-22T06:21:46Z",
+        "default_branch": "main",
+        "size": 620,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "archived": true,
+        "html_url": "https://github.com/FahadBinHussain/cse370"
+      },
+      "branches": [
+        {
+          "name": "main",
+          "sha": "8deacf7aa89fc88106c66ab9e2ab09f657ac6efa"
+        }
+      ],
+      "issues": [],
+      "pull_requests": [],
+      "releases": []
+    },
+    "cse391": {
+      "meta": {
+        "name": "cse391",
+        "full_name": "FahadBinHussain/cse391",
+        "description": "Web-based car workshop appointment booking system with admin panel, mechanic availability, and phone-number-based discount rules.",
+        "homepage": "https://portfolio391.netlify.app",
+        "topics": [
+          "admin-panel",
+          "appointment-booking",
+          "car-workshop",
+          "cse391",
+          "discount-system",
+          "javascript",
+          "mysql",
+          "php"
+        ],
+        "language": "JavaScript",
+        "visibility": "public",
+        "created_at": "2025-10-23T14:26:56Z",
+        "updated_at": "2026-11-11T05:09:32Z",
+        "pushed_at": "2026-05-22T06:04:05Z",
+        "default_branch": "main",
+        "size": 5307,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 1,
+        "archived": true,
+        "html_url": "https://github.com/FahadBinHussain/cse391"
+      },
+      "branches": [
+        {
+          "name": "imgbot",
+          "sha": "11b519f75bce9e57bdef9380889a2d4d3c5b4611"
+        },
+        {
+          "name": "main",
+          "sha": "8ae4ff68325eeef172ae8d14bbb77c48a7db6d68"
+        }
+      ],
+      "issues": [],
+      "pull_requests": [
+        {
+          "number": 1,
+          "title": "[ImgBot] Optimize images",
+          "body": "## Beep boop. Your images are optimized!\r\n\r\nYour image file size has been reduced by **7%** 🎉\r\n\r\n<details>\r\n<summary>\r\nDetails\r\n</summary>\r\n\r\n| File | Before | After | Percent reduction |\r\n|:--|:--|:--|:--|\r\n| /images/profile_picture.jpg | 2,753.08kb | 2,563.79kb | 6.88% |\r\n</details>\r\n\r\n---\r\n\r\n[📝 docs](https://imgbot.net/docs) | [:octocat: repo](https://github.com/imgbot/ImgBot) | [🙋🏾 issues](https://github.com/imgbot/ImgBot/issues) | [🏪 marketplace](https://github.com/marketplace/imgbot)\r\n\r\n<i>~Imgbot - Part of [Optimole](https://optimole.com/) family</i>\r\n",
+          "state": "open",
+          "labels": [],
+          "created_at": "2026-05-13T11:28:56Z",
+          "closed_at": null,
+          "html_url": "https://github.com/FahadBinHussain/cse391/pull/1",
+          "merged_at": null
+        }
+      ],
+      "releases": []
+    },
+    "cse421": {
+      "meta": {
+        "name": "cse421",
+        "full_name": "FahadBinHussain/cse421",
+        "description": "BRACU CSE421 computer networks coursework and Python networking exercises.",
+        "homepage": "https://github.com/FahadBinHussain/cse421",
+        "topics": [
+          "bracu",
+          "computer-networks",
+          "coursework",
+          "cse421",
+          "networking",
+          "python"
+        ],
+        "language": "Python",
+        "visibility": "public",
+        "created_at": "2025-02-19T10:22:31Z",
+        "updated_at": "2026-11-11T05:09:34Z",
+        "pushed_at": "2026-05-22T06:05:52Z",
+        "default_branch": "main",
+        "size": 11996,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "archived": true,
+        "html_url": "https://github.com/FahadBinHussain/cse421"
+      },
+      "branches": [
+        {
+          "name": "main",
+          "sha": "112ca067a943750dd0c3a3be770434c07b61e599"
+        }
+      ],
+      "issues": [],
+      "pull_requests": [],
+      "releases": []
+    },
+    "cse422": {
+      "meta": {
+        "name": "cse422",
+        "full_name": "FahadBinHussain/cse422",
+        "description": "CSE422 machine learning labs and project on tree sterility prediction using Python, Jupyter notebooks, and scikit-learn.",
+        "homepage": "github.com/FahadBinHussain/cse422",
+        "topics": [
+          "classification",
+          "cse422",
+          "data-analysis",
+          "forest-ecology",
+          "jupyter-notebook",
+          "machine-learning",
+          "python",
+          "scikit-learn"
+        ],
+        "language": "Jupyter Notebook",
+        "visibility": "public",
+        "created_at": "2026-01-05T03:06:14Z",
+        "updated_at": "2026-11-11T05:09:36Z",
+        "pushed_at": "2026-05-22T06:04:33Z",
+        "default_branch": "main",
+        "size": 3399,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "archived": true,
+        "html_url": "https://github.com/FahadBinHussain/cse422"
+      },
+      "branches": [
+        {
+          "name": "main",
+          "sha": "81ea5783646b78bd4a38ed4fb1940df0b6f9c38d"
+        }
+      ],
+      "issues": [],
+      "pull_requests": [],
+      "releases": []
+    },
+    "cse470": {
+      "meta": {
+        "name": "cse470",
+        "full_name": "FahadBinHussain/cse470",
+        "description": "task management app",
+        "homepage": null,
+        "topics": [],
+        "language": "TypeScript",
+        "visibility": "public",
+        "created_at": "2026-08-12T12:44:28Z",
+        "updated_at": "2026-11-11T05:09:38Z",
+        "pushed_at": "2026-10-09T01:54:06Z",
+        "default_branch": "main",
+        "size": 169,
+        "stargazers_count": 0,
+        "watchers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "archived": true,
+        "html_url": "https://github.com/FahadBinHussain/cse470"
+      },
+      "branches": [
+        {
+          "name": "copilot/prepare-demonstration-cse470",
+          "sha": "fa3cbcdb9c8f291da9d46fd4548508ff802e5d81"
+        },
+        {
+          "name": "main",
+          "sha": "1d2458d3e42fd6a48f491cd9b794ea606ee3f484"
+        }
+      ],
+      "issues": [],
+      "pull_requests": [],
+      "releases": []
+    }
+  }
+}
