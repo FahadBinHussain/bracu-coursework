@@ -4,6 +4,9 @@ Backed up 2026-11-11T05:17:42.660843+00:00 before the original repos were delete
 All files and full git history live in this monorepo, one folder per repo.
 This file preserves what a merge cannot: repo metadata, issues and PRs.
 
+Status: the original repos were deleted on 2026-11-11, after this backup was
+pushed and verified. (GitHub keeps a 90-day owner restore window.)
+
 ## cse110
 
 - Former URL: https://github.com/FahadBinHussain/cse110

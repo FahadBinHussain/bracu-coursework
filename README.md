@@ -2,7 +2,9 @@
 
 BRAC University CSE coursework, merged into one monorepo from the individual
 course repos. Each folder is a former repo, merged with its full git history
-preserved (see the merge commits). The original repos are archived read-only.
+preserved (see the merge commits). The original repos were deleted on
+2026-11-11 after their metadata, issues and PRs were backed up into
+ARCHIVE-NOTES.md and archive-metadata.json in this repo.
 
 | Folder | Former repo |
 |---|---|
