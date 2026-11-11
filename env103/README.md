@@ -8,6 +8,8 @@ BRAC University, Fall 2026. Kept in this repo as coursework alongside the CSE fo
 assignment (526 words as submitted), Times New Roman 12, 1.15 spacing,
 APA 7th references, 3 original figures.
 
+- `assignment-01.docx` - the assignment itself (ID-redacted copy: name and
+  student ID blanked on the cover, since this repo is public)
 - `brief.pdf` - the assignment brief
 - `figures/` - the three original figures used in the assignment
   (layers diagram, evolution timeline, CO2 graph plotted from NOAA data)
